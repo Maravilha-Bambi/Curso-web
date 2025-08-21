@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.eli{
+    width: 50%;
+    height:100px ;
+}
+h1{
+    color: rgba(255, 213, 0, 0.788);
+}
+ .h1{
+    
+        width: 50%;
+    height:100px ;
+    margin-left: 8%;
+    margin-top: 240px;
+}
+p{
+    color: rgba(0, 183, 255, 0.801);
+      font-size: 20px;
+}
+.a{
+    display: block;
+}
+
+.eli img{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+  
+
+}
+
+.nv{
+    margin-top: 280px;
+    height: 40px;
+    background-color: aqua;
+}

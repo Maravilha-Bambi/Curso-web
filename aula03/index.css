@@ -49,7 +49,7 @@ nav ul li{
     color: aliceblue;
     text-align: left;
     margin-top: 70px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Gill Sans MT','Gill Sans','Calibri', 'Trebuchet MS', sans-serif ;
    
 }
 h1{
@@ -85,13 +85,18 @@ h1{
 font-size: 15px;
 }
 .parte02{
-    padding: 53px;
+    padding: 52px 150px  ;
+    
+}
+.h2{
+    padding: 12px 33px;
+    font-family: 'Gill Sans MT''Gill Sans','Calibri', 'Trebuchet MS', sans-serif ;
 }
 
 .parte2{
 display: grid;
-gap: 20px;
-grid-template-columns: repeat(4, auto);
+gap: 18px;
+grid-template-columns: repeat(auto-fill, minmax(192px, 1fr));
 
 }
 
@@ -104,5 +109,30 @@ grid-template-columns: repeat(4, auto);
    width: 100%; 
    height: 100%;
    object-fit: cover;
+
+}
+.parte3{
+    background-color: #262228;
+    
+    padding: 12px;
+}
+.letras2{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+text-align: center;
+ padding: 19px;
+ margin-bottom: 33px;
+}
+.h22{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 2px;
+font-size: 19px;
+}
+.rodape{
+    color: silver;
+    padding: 10px  12px 4px;
+    border-top: 1px solid silver;
+    text-align: center;
 
 }

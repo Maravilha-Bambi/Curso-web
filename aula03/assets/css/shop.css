@@ -1,0 +1,43 @@
+
+  .container{
+  display: flex;
+  justify-content: space-around;
+    align-items: center;
+    padding: 9px 28px;
+   
+
+}
+.container2{
+     display: flex;
+  justify-content: space-around;
+    align-items: center;
+   
+}
+nav ul li {
+    color: black;
+     margin-right: 28px;
+     list-style: none;
+}
+li .a{
+    text-decoration: none;
+    color: black;
+}
+
+.foto1{
+    background-image:url(../img/istockphoto-2155795543-1024x1024.jpg);
+    height: 69vh;
+    background-size: cover;
+    padding: 48px;
+}
+.letras{
+    margin:16px;
+    color: black;
+    text-align: left;
+    margin-top: 70px;
+    font-family: 'Gill Sans MT','Gill Sans','Calibri', 'Trebuchet MS', sans-serif ;
+   
+}
+h1{
+    font-size: 45px;
+}
+

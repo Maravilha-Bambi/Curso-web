@@ -13,13 +13,13 @@
    justify-content: right;
      
 }
-ul li{
+ul li {
     color: aliceblue;
     list-style: none;
     display: inline;
     
 }
-.li1{
+.li1 {
    margin-left: 12px;
 }
 .parte1{
@@ -34,9 +34,13 @@ ul li{
    
    
 }
-nav ul li{
+nav ul li {
     color: black;
      margin-right: 28px;
+}
+li .a{
+    text-decoration: none;
+    color: black;
 }
 .foto1{
     background-image:url(../img/pexels-cottonbro-6220662.jpg);

@@ -11,7 +11,7 @@ var n1=10;
  var n3=10;
  var media;
  media=(n1+n2+n3)/3;
- console.log("3-"+"A media fina é : " +media);
+ console.log("3-"+"A media fina é : " + media );
    
 var nome="Ana"
  //prompt("Qual é o seu nome?");

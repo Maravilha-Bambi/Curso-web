@@ -11,9 +11,10 @@
    <input type="text" class="inpt" id="txt" placeholder="">
  <input type="text" id="txt2">
    <button id="btn" onclick="soma()">pesquisar</button>
-    <form action="index.php" method="get">
-        <button type="submit">clicar</button>
-    </form>
+    <?php
+        $var1=10;
+        echo="ola mundo ".$var1;
+    ?>
     <script src="../assets/js/exer.js"></script>
 </body>
 </html>

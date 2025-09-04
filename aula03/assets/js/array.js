@@ -60,17 +60,27 @@ console.log(arr5[4]);
 console.log("   <<<<<<<<<<<<<<<<<<<<            ");
 console.log("               ");
 
+*/
 
-/* Exercicio 6????????????????????
-let cont1=0;
+
+
 var arr6 = [2,3,4,6,78,19,29,40,74];
 for (let v=0;  v<=arr6.length;v++){
 
-if(arr6%2==0){
-    cont1++;
+if(arr6[v]%2==0){
+   console.log("Os números primos são:" + arr6[v]);
 }
 }
-*/
+
+
+
+let contt=0;
+for (var bb=1;bb<=10;bb++){
+    if (bb%2==0){
+        console.log(bb);
+    }
+}
+
 
 
 /* Exercicio 6????????????????????
@@ -82,8 +92,7 @@ alunos.notas=11,8,20,7;
 console.log(alunos.notas[]);
 */
 
-
-var input = document.getElementById("text");
-input.value="Email";
+//var input = document.getElementById("text");
+//input.value="Email";
 
 

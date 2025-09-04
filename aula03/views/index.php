@@ -14,7 +14,9 @@
     <?php
         $var1=10;
         echo="ola mundo ".$var1;
+
+        echo("Ola mundo!!");
     ?>
     <script src="../assets/js/exer.js"></script>
 </body>
-</html>
+</html>!
